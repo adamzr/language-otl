@@ -1,19 +1,7 @@
 'scopeName': 'source.yaml'
-'name': 'YAML'
+'name': 'OTL'
 'fileTypes': [
-  'clang-format'
-  'eslintrc'
-  'eyaml'
-  'eyml'
-  'yaml'
-  'yamllint'
-  'yaml.erb'
-  'yml'
-  'yml.erb'
-  'sls'
-  'stylelintrc'
-  'sublime-syntax'
-  'Boxfile'
+  'otl'
 ]
 'firstLineMatch': '^(#cloud-config|---)'
 'patterns': [

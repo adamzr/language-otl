@@ -1,0 +1,17 @@
+'.source.optional':
+  'accesskey':
+      'prefix': 'otl'
+      'body':"""
+         otl:
+           name: ${1:my-service-v1}
+           description: ${2:My Service}
+           owners:
+             - ${3:my-team@opentable.com}
+           inherits:
+             - ${4:base-v1}
+
+           fields:
+             ${5:field-name}:
+               type: ${6:string}
+               optional: ${7:true}
+"""

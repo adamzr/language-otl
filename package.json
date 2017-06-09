@@ -1,19 +1,19 @@
 {
-  "name": "language-yaml",
-  "version": "0.30.0",
-  "description": "YAML language support in Atom",
+  "name": "language-otl",
+  "version": "0.0.1",
+  "description": "OTL language support in Atom",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-yaml",
+  "homepage": "http://adamzr.github.io/language-otl",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-yaml.git"
+    "url": "https://github.com/adamzr/language-otl.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-yaml/issues"
+    "url": "https://github.com/adamzr/language-otl/issues"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
